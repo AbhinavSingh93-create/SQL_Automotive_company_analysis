@@ -1,4 +1,4 @@
-# SQL_Automotive_company_analysis
+# SQL_EV_Market_analysis
 Provide insights to an Automotive company on Electric vehicles launch in India.
 
 
